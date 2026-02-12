@@ -17,4 +17,4 @@ Estudante de ADS e aprendendo na prática.
 - LinkedIn: www.linkedin.com/in/richardweeb
 - Email: richardweeb@proton.me
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=richardweeb)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=richardweeb&theme=shadow-red&border_radius=25&locale=pt_BR)](https://git.io/streak-stats)
