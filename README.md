@@ -1,5 +1,5 @@
 
-[![MasterHead](https://i.redd.it/ufdzgdrtamu61.gif)](your GitHub link)
+[![MasterHead](https://i.redd.it/ufdzgdrtamu61.gif)]
 
 # Richard 👋
 
