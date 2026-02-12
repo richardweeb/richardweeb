@@ -12,7 +12,7 @@ Estudante de ADS e aprendendo na prática.
 
 ## Projetos
 - 🔎 **Comparador de preços / ofertas**
-[![Abrir repositório](https://img.shields.io/badge/Abrir%20reposit%C3%B3rio-comparador--precos-red)](https://github.com/richardweeb/comparador-precos)
+[![GitHub](https://img.shields.io/badge/GitHub-comparador--precos-black?logo=github)](https://github.com/richardweeb/comparador-precos)
 
 ## Contato
 - LinkedIn: www.linkedin.com/in/richardweeb
