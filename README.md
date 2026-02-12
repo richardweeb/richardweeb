@@ -11,7 +11,7 @@ Estudante de ADS e aprendendo na prática.
 - 🧠 Estudando fundamentos de TI (redes, sistemas e suporte)
 
 ## Projetos
-- 🔎 **Comparador de preços / ofertas** github.com/richardweeb/comparador-precos (em evolução)
+- 🔎 **Comparador de preços / ofertas** [![GitHub](https://img.shields.io/badge/GitHub-comparador--precos-black?logo=github)](https://github.com/richardweeb/comparador-precos)
 
 ## Contato
 - LinkedIn: www.linkedin.com/in/richardweeb
