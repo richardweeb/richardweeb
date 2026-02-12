@@ -10,8 +10,8 @@ Estudante de ADS e aprendendo na prática.
 - 📊 Power BI / Excel
 - 🧠 Estudando fundamentos de TI (redes, sistemas e suporte)
 
-##Projetos
-- 🔎 **Comparador de preços / ofertas** (em evolução)
+## Projetos
+- 🔎 **Comparador de preços / ofertas** github.com/richardweeb/comparador-precos (em evolução)
 
 ## Contato
 - LinkedIn: www.linkedin.com/in/richardweeb
