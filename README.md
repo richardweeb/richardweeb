@@ -1,8 +1,8 @@
 
 ![MasterHead](https://i.redd.it/ufdzgdrtamu61.gif)
-![](https://komarev.com/ghpvc/?username=richardweeb&color=red)
 
-# Richard 🕸️
+
+# Richard 🕸️ ![](https://komarev.com/ghpvc/?username=richardweeb&color=red)
 
 Estudante de ADS e aprendendo na prática.
 
