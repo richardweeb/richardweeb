@@ -8,7 +8,7 @@ Estudante de ADS e aprendendo na prática.
 - 📊 Power BI / Excel
 - 🧠 Estudando fundamentos de TI (redes, sistemas e suporte)
 
-## Projetos
+#Projetos
 - 🔎 **Comparador de preços / ofertas** (em evolução)
 
 ## Contato
