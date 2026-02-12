@@ -1,6 +1,6 @@
 
 ![MasterHead](https://i.redd.it/ufdzgdrtamu61.gif)
-![Visitor Count](https://profile-counter.glitch.me/{richardweeb}/count.svg)
+![](https://komarev.com/ghpvc/?username=richardweeb&color=red)
 
 # Richard 🕸️
 
