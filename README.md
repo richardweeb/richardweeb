@@ -1,16 +1,44 @@
-## Hi there 👋
+# Opa! Eu sou o Richard 👋
 
-<!--
-**richardweeb/richardweeb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas  
+💻 Foco em aprender na prática e construir projetos reais  
+🚀 Atualmente estudando: IA, C#, Python, Java, Front-End e Power BI
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 Sobre mim
+- Gosto de transformar ideias em projetos (e documentar decisões técnicas)
+- Curto automação, dados e produtos que resolvem problemas reais
+- Objetivo: conquistar meu primeiro estágio na área de TI / Desenvolvimento
+
+---
+
+## 🧰 Tecnologias (em evolução)
+**Linguagens:** C#, Java, Python, JavaScript/TypeScript  
+**Front-End:** HTML, CSS (e evoluindo para frameworks)  
+**Dados:** Power BI, Excel  
+**Infra / TI:** redes (fundamentos), sistemas operacionais, suporte e manutenção  
+**Outros:** Git/GitHub
+
+---
+
+## 🧪 Projetos em destaque
+- 🔎 **Comparador de preços / ofertas** — extensão + coleta de dados e organização de resultados  
+  - Foco: desempenho, confiabilidade e documentação de decisões técnicas
+
+> Vou fixar os melhores repositórios aqui no perfil conforme evoluírem.
+
+---
+
+## 📌 O que estou fazendo agora
+- Fortalecendo base em programação e boas práticas
+- Criando projetos para portfólio com README bem explicado
+- Estudando TI (redes, sistemas, suporte) e desenvolvimento
+
+---
+
+## 📫 Contato
+- LinkedIn: (coloque aqui)
+- Email: (coloque aqui)
+
+⭐ Se curtir algum projeto, deixa uma estrela!
