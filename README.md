@@ -1,14 +1,15 @@
+
+[![MasterHead](https://i.redd.it/ufdzgdrtamu61.gif)](your GitHub link)
+
 # Richard 👋
 
 Estudante de ADS e aprendendo na prática.
-
-<img align="right" alt="Coding" width="400" src="https://i.redd.it/ufdzgdrtamu61.gif">
 
 - 💻 C#, Java, Python e um pouco de Front
 - 📊 Power BI / Excel
 - 🧠 Estudando fundamentos de TI (redes, sistemas e suporte)
 
-#Projetos
+##Projetos
 - 🔎 **Comparador de preços / ofertas** (em evolução)
 
 ## Contato
