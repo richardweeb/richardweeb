@@ -2,7 +2,7 @@
 ![MasterHead](https://i.redd.it/ufdzgdrtamu61.gif)
 
 
-# Richard 👋
+# Richard 🕸️
 
 Estudante de ADS e aprendendo na prática.
 
