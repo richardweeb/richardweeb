@@ -1,5 +1,6 @@
 
-[![MasterHead](https://i.redd.it/ufdzgdrtamu61.gif)]
+![MasterHead](https://i.redd.it/ufdzgdrtamu61.gif)
+
 
 # Richard 👋
 
